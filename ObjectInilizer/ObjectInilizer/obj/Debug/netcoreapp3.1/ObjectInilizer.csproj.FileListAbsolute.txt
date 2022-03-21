@@ -1,0 +1,14 @@
+D:\C#\ObjectInilizer\ObjectInilizer\bin\Debug\netcoreapp3.1\ObjectInilizer.exe
+D:\C#\ObjectInilizer\ObjectInilizer\bin\Debug\netcoreapp3.1\ObjectInilizer.deps.json
+D:\C#\ObjectInilizer\ObjectInilizer\bin\Debug\netcoreapp3.1\ObjectInilizer.runtimeconfig.json
+D:\C#\ObjectInilizer\ObjectInilizer\bin\Debug\netcoreapp3.1\ObjectInilizer.runtimeconfig.dev.json
+D:\C#\ObjectInilizer\ObjectInilizer\bin\Debug\netcoreapp3.1\ObjectInilizer.dll
+D:\C#\ObjectInilizer\ObjectInilizer\bin\Debug\netcoreapp3.1\ObjectInilizer.pdb
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.csproj.AssemblyReference.cache
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.AssemblyInfoInputs.cache
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.AssemblyInfo.cs
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.csproj.CoreCompileInputs.cache
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.dll
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.pdb
+D:\C#\ObjectInilizer\ObjectInilizer\obj\Debug\netcoreapp3.1\ObjectInilizer.genruntimeconfig.cache
